@@ -1,0 +1,7 @@
+[user]
+	email = mxmssdia@gmail.com
+	name = mousammm
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
